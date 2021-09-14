@@ -166,7 +166,11 @@ main{
     position: relative;
     left: 30px;
     top: 535px;
+    
+}
 
+.icons{
+    box-shadow: 2px 2px 2px 2px rgb(102, 2, 148);
 }
 
 footer{
